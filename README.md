@@ -1,6 +1,7 @@
 # Jayesh Magdum - Portfolio
 
 Personal portfolio website: a multi-tab single page site (Home, About, Skills, Experience, Projects, Contact) built with plain HTML, CSS and JavaScript. No frameworks, no build step.
+https://jayeshmagdum.github.io/
 
 ## Features
 
